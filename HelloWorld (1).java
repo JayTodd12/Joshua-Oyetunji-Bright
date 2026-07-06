@@ -1,9 +1,9 @@
 class HelloWorld {
  	public static void main(String[] args){
- string fullName ="Ladycent Asirifi Asiedu";// 
+ string fullName ="Joshua O. Bright";// 
 String:used for text like names
  int age = 21;//int:used for whole numbers like age 
- char gender ='F';//char: used for a single
+ char gender ='M';//char: used for a single
 character 
  double height =1.5;//double:used for decimal 
 numbers like height
@@ -11,7 +11,7 @@ numbers like height
 numbers like weight 
  boolean isStudent= true ;//boolean:used for true
 or false values 
- long phoneNumber = 0559756245L;//long:used for 
+ long phoneNumber = 0208548599L;//long:used for 
 large whole numbers 
  string level = "Level 200";//String:used for text
  string nationality = "Ghanaian";//String:used for
